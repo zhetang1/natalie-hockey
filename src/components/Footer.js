@@ -9,7 +9,6 @@ const Footer = () => {
         <div className="footer-container">
           <Fade bottom cascade>
             <h1>Contact</h1>
-            <h2>{data.contactSubHeading}</h2>
           </Fade>
           <a className="email-link" href={`mailto:${data.contactEmail}`}>
             {data.contactEmail}
@@ -22,13 +21,13 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <img src={socialLink.img} alt="icons"></img>
+                <img src={socialLink.img} alt="icons"/>
               </a>
             ))}
           </div>
           <span>
-            Made With <icon>❤</icon> by{" "}
-            <a href="https://www.chetanverma.com/">Chetan Verma</a>
+            Made With <icon>❤</icon> and help from{" "}
+            <a href="https://www.linkedin.com/in/zhetang/">Hockey Dad</a>
           </span>
         </div>
       </div>

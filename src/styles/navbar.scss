@@ -11,13 +11,13 @@
     button {
       text-decoration: none;
       padding: 10px;
-      font-family: "Open Sans";
+      font-family: "Open Sans", serif;
       opacity: 0.6;
       transition: all 0.2s ease-in-out;
       font-size: 12px;
       background-color: transparent;
       outline: none;
-      border: 0px;
+      border: 0;
       cursor: pointer;
       &:hover {
         opacity: 1;
