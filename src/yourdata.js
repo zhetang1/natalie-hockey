@@ -39,6 +39,11 @@ export default {
   // End Header Details -----------------------
 
   videos: [
+    // Liberty Bell
+    {
+      embedId: "O86vHxTRuYY"
+    },
+
     //   // vs flyers
     // {
     //   embedId: "K-64P58ykRw"
@@ -83,9 +88,11 @@ export default {
     // {
     //   embedId: "UEUP42RMEJ4"
     // },
-    {
-      embedId: "rElftG_KyYI"
-    },
+
+      // at Ironbound
+    // {
+    //   embedId: "rElftG_KyYI"
+    // },
     // {
     //   embedId: "ILHmh9YJvD8"
     // },
@@ -95,9 +102,11 @@ export default {
     {
       embedId: "v8RYD31oReQ"
     },
-    {
-      embedId: "d7CwWL2D3wM"
-    },
+
+      // at Flyers
+    // {
+    //   embedId: "d7CwWL2D3wM"
+    // },
     // {
     //   embedId: "QB-NJZH2kIU"
     // },
@@ -112,12 +121,12 @@ export default {
     // {
     //   embedId: "4zcs3BXCR0w"
     // },
-    {
-      embedId: "UqpzOniGNz4"
-    },
-    {
-      embedId: "Wbq1GSSnND4"
-    },
+    // {
+    //   embedId: "UqpzOniGNz4"
+    // },
+    // {
+    //   embedId: "Wbq1GSSnND4"
+    // },
 
     // thunders
     {
@@ -132,12 +141,50 @@ export default {
     // {
     //   embedId: "shAnqmE54k8"
     // },
+
+      // Arctic Foxes
+    {
+      embedId: "VGIXr_4q8ak"
+    },
+    {
+      embedId: "qknbOZxOfxk"
+    },
+    {
+      embedId: "BISM642CjH8"
+    },
+    {
+      embedId: "8nGB0yPaesk"
+    },
+    // {
+    //   embedId: "rnOY6bXe1rY"
+    // },
+
+    // Lady Lancers
+    // {
+    //   embedId: "6UZOJU4G61s"
+    // },
+    {
+      embedId: "TWhtBl-3VT4"
+    },
+
+    // St. Louis Cyclones
+    {
+      embedId: "YwdTMbwJUYY"
+    },
+    {
+      embedId: "GfgYMMYQMt8"
+    },
+
+      // Steele City
+    // {
+    //   embedId: "b3FFCoYDdio"
+    // },
   ],
 
   aboutParaOne:
-    "My name is Natalie Tang. I'm in 8th Grade. Besides hockey, I play soccer and volley ball. I also love skiing and swimming.",
+    "My name is Natalie Tang. I'm in 8th Grade. Besides hockey, I play soccer and volley ball.",
   aboutImage:
-      "https://i.ibb.co/VM3Hrdy/2021-09-09-07-28-26-519.jpg",
+      "https://i.ibb.co/bsC76rK/96189-F90-2-CC8-4943-832-F-774310-AC6-DA6.jpg",
 
   //   End About Section ---------------------
 
