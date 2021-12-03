@@ -42,7 +42,7 @@ $ cd react-portfolio-template
 $ yarn
 
 #Start's development server
-$ gatsby develop
+$ npm run develop
 ```
 
 #### Personalize page content in `/src/yourdata.js` & modify it as per your need.
