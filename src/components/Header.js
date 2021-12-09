@@ -13,6 +13,7 @@ const Header = () => {
               <span role="img" aria-label="Emoji">
                 👋
               </span>
+              {"  "}(<a href="#about">About me</a>)
             </h2>
           </Fade>
           <Fade bottom>

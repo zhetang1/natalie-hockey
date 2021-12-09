@@ -48,6 +48,137 @@ export default {
       embedId: "O86vHxTRuYY"
     },
 
+    // Tigers
+    {
+      embedId: "D7K-pe0OJgM"
+    },
+
+  // Thunders
+  {
+    embedId: "VYOyFw9g9YY"
+  },
+
+    // Colonials
+  {
+    embedId: "JuFnrUZYPjs"
+  },
+
+    {
+      embedId: "ucUQYBUwOkE"
+    },
+
+  {
+    embedId: "pELJOsyEn40"
+  },
+
+    {
+      embedId: "HVD2fFt9KD4"
+    },
+
+  {
+    embedId: "pZAUYDdLRAw"
+  },
+
+  {
+    embedId: "n3V3d5AeY0c"
+  },
+
+    {
+      embedId: "KkUt-1myymQ"
+    },
+
+  {
+    embedId: "we-fbHLGDqM"
+  },
+
+    {
+      embedId: "NZ7vOpOaME8"
+    },
+
+  {
+    embedId: "Wx811rvC_xw"
+  },
+
+    {
+      embedId: "VRhoGQOsN_A"
+    },
+
+// Eagles
+    {
+      embedId: "lP-T-Y23Ydk"
+    },
+
+  {
+    embedId: "shT9e8uN7g0"
+  },
+
+    {
+      embedId: "2diImCY5B-0"
+    },
+
+    {
+      embedId: "8nBXTFb3BCk"
+    },
+
+  {
+    embedId: "BFyYmxiRO7k"
+  },
+
+    {
+      embedId: "7m-NZc6ADCk"
+    },
+
+// Predators
+  {
+    embedId: "VyTx4oghFrI"
+  },
+
+    {
+      embedId: "fnWMtFk07aM"
+    },
+
+// Lightnings
+  {
+    embedId: "H_HSeSOxkLA"
+  },
+
+// Militia
+    {
+      embedId: "0TN_f3iGhe0"
+    },
+
+  {
+    embedId: "G6U6BWpAN2k"
+  },
+
+    {
+      embedId: "1M1iLUoYUgM"
+    },
+
+// Adirondack
+  {
+    embedId: "9FpTjFifHSQ"
+  },
+
+// Stars
+    {
+      embedId: "tWDU39sXZzM"
+    },
+
+// Titans
+  {
+    embedId: "sTbMwfNQA6w"
+  },
+
+// Islanders
+    {
+      embedId: "O320fER4Ymg"
+    },
+
+    {
+      embedId: "j96kMF6sy70"
+    },
+
     //   // vs flyers
     // {
     //   embedId: "K-64P58ykRw"
