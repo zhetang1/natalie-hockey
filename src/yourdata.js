@@ -40,14 +40,40 @@ export default {
 
   videos: [
   // merged
-  {
-    embedId: "ZT0QF3n1W50"
-  },
+//  {
+//    embedId: "ZT0QF3n1W50"
+//  },
     // Liberty Bell
     {
       embedId: "O86vHxTRuYY"
     },
 
+    // Tiger Lilies 12/18/21
+    {
+      embedId: "rxCRuy6D0uc"
+    },
+    {
+      embedId: "cBcNQ2U0tGw "
+    },
+    {
+      embedId: "zEnK2pa4rrs"
+    },
+    {
+      embedId: "RQxE7vHOex0"
+    },
+    // Jr. Flyers 12/19/21
+    {
+      embedId: "7iI3E4FqaqY"
+    },
+    {
+      embedId: "f_4yb3MxrQ"
+    },
+    {
+      embedId: "vF-dd3HA0uM"
+    },
+    {
+      embedId: "WeyDrv3RlYI"
+    },
     // Tigers
     {
       embedId: "D7K-pe0OJgM"
@@ -59,13 +85,13 @@ export default {
   },
 
     // Colonials
-  {
-    embedId: "JuFnrUZYPjs"
-  },
-
-    {
-      embedId: "ucUQYBUwOkE"
-    },
+//  {
+//    embedId: "JuFnrUZYPjs"
+//  },
+//
+//    {
+//      embedId: "ucUQYBUwOkE"
+//    },
 
   {
     embedId: "pELJOsyEn40"
