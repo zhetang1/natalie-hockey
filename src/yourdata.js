@@ -48,6 +48,11 @@ export default {
       embedId: "O86vHxTRuYY"
     },
 
+    // Colonials
+    {
+      embedId: "VRhoGQOsN_A"
+    },
+
     // Tiger Lilies 12/18/21
     {
       embedId: "rxCRuy6D0uc"
@@ -101,9 +106,9 @@ export default {
       embedId: "HVD2fFt9KD4"
     },
 
-  {
-    embedId: "pZAUYDdLRAw"
-  },
+//  {
+//    embedId: "pZAUYDdLRAw"
+//  },
 
   {
     embedId: "n3V3d5AeY0c"
@@ -124,10 +129,6 @@ export default {
   {
     embedId: "Wx811rvC_xw"
   },
-
-    {
-      embedId: "VRhoGQOsN_A"
-    },
 
 // Eagles
     {
