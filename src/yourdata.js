@@ -53,6 +53,11 @@ export default {
       embedId: "VRhoGQOsN_A"
     },
 
+    // Lightnings
+      {
+        embedId: "H_HSeSOxkLA"
+      },
+
     // Tiger Lilies 12/18/21
     {
       embedId: "rxCRuy6D0uc"
@@ -166,11 +171,6 @@ export default {
     {
       embedId: "fnWMtFk07aM"
     },
-
-// Lightnings
-  {
-    embedId: "H_HSeSOxkLA"
-  },
 
 // Militia
     {
