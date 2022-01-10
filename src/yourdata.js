@@ -151,9 +151,9 @@ export default {
       embedId: "2diImCY5B-0"
     },
 
-    {
-      embedId: "8nBXTFb3BCk"
-    },
+//    {
+//      embedId: "8nBXTFb3BCk"
+//    },
 
   {
     embedId: "BFyYmxiRO7k"
