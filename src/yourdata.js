@@ -43,6 +43,17 @@ export default {
 //  {
 //    embedId: "ZT0QF3n1W50"
 //  },
+
+// Lil Flyers
+    {
+      embedId: "o1Ca6ZvJ-kI"
+    },
+
+    //Iron bound
+    {
+      embedId: "TtD3_6lDx-0"
+    },
+
     // Liberty Bell
     {
       embedId: "O86vHxTRuYY"
