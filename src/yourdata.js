@@ -44,6 +44,24 @@ export default {
 //    embedId: "ZT0QF3n1W50"
 //  },
 
+// penalty shot
+    {
+      embedId: "gdUJ_vKjDQc"
+    },
+
+// District Champ
+    {
+      embedId: "JNSOKmQmJc8"
+    },
+    {
+      embedId: "n9xGPfcOrQQ"
+    },
+
+// NGHL
+    {
+      embedId: "t_5AHIoGqPU"
+    },
+
 // Lil Flyers
     {
       embedId: "o1Ca6ZvJ-kI"
@@ -86,15 +104,15 @@ export default {
       embedId: "RQxE7vHOex0"
     },
     // Jr. Flyers 12/19/21
-    {
-      embedId: "7iI3E4FqaqY"
-    },
+//    {
+//      embedId: "7iI3E4FqaqY"
+//    },
     {
       embedId: "-f_4yb3MxrQ"
     },
-    {
-      embedId: "vF-dd3HA0uM"
-    },
+//    {
+//      embedId: "vF-dd3HA0uM"
+//    },
     {
       embedId: "WeyDrv3RlYI"
     },
